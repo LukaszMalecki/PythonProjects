@@ -1,0 +1,41 @@
+Wymagane pliki w folderze stylu:
+
+Tiles:
+
+-X_C_O.gif (gdzie X to liczby od 0 do 8) - reprezentuje numtiles po kliknięciu, takie same w każdym stanie rozgrywki (on-going, win, loss)
+
+-A_D_O.gif (A to po prostu "A") - reprezentuje wygląd eszystkich tiles w stanie domyślnym, gdy rozgrywka trwa (on-going)
+
+-9_F_L.gif (9 to po prostu 9) - reprezentuje flagę postawioną w miejscu pola numTile, gdy rozgrywka jest przegrana
+
+-A_F_O.gif - reprezentuje flagę postawioną na dowolnym tile w czasie trwania rozgrywki
+
+-M_C_L.gif - reprezentuje minę, która została kliknięta i spowodowała przegraną
+
+-M_D_L.gif - reprezentuje minę w stanie domyślnym, gdy rozgrywka jest przegrana
+
+-M_F_L.gif - reprezentuje minę przykrytą flagę, gdy rozgrywka jest przegrana
+
+-M_F_W.gif - reprezentuje minę, gdy rozgrywka jest wygrana
+
+Elementy Menu:
+
+-menuName.gif - Label z nazwą gry
+
+-menuStart.gif - guzik używany do wystartowania rozgrywki
+
+-menuUstawienia.gif - guzik używany do włączenia okna ustawień
+
+-menuWyjście.gif - guzik używany do zakończenia pracy programu
+
+Pliki tekstowe:
+
+-name.txt - plik z jedną linijką zawierającą nazwę stylu, która powinna się wyświetlać (np. Styl domyślny)
+
+-backgroundcolor.txt - plik z kilkoma linijkami zawierającymi kolory w formacie RGB hex (#RRGGBB):
+
+1) kolor tła
+2) kolor tła guzików interfesu
+3) kolor klikniętych guzików interfejsu
+4) kolor planszy (default oznacza domyślny kolor)
+5) kolor guzika planszy przy kliknięciu (default oznacza domyślny kolor)

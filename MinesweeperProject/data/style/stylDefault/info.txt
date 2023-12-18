@@ -1,0 +1,9 @@
+Font: Consolas Bold
+Background colour tile: 210:210:210
+
+A_D_O - dla wszystkich pól
+
+Kolory po kolei:
+
+1: 10D710
+2: 1073D7

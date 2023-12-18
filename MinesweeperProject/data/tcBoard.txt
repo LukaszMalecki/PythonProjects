@@ -1,0 +1,5 @@
+[DEFAULT]
+bazowa_geometria = +537+113
+availablestyles = stylDefault;stylDark
+currentstyle = stylDark
+

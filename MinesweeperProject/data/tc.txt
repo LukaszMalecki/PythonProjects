@@ -1,0 +1,9 @@
+[DEFAULT]
+bazowa_geometria = 722x366+635+89
+availablestyles = stylDefault;stylDark
+currentstyle = stylDark
+
+[BOARD]
+gamemode = M
+gamesettings = None
+
