@@ -1,0 +1,12 @@
+Zad 2 results in miliseconds:
+	Approximate time needed to accomplish the task: 3.23891592025756835938
+	Approximate time needed to accomplish the task: 0.02995920181274414062
+	Approximate time needed to accomplish the task: 1.36891889572143554688
+Zad 3 results in miliseconds:
+	Approximate time needed to accomplish the task: 3.00557923316955566406
+	Approximate time needed to accomplish the task: 1.87584662437438964844
+	Approximate time needed to accomplish the task: 0.02804756164550781250
+Zad 4 results in miliseconds:
+	Approximate time needed to accomplish the task: 1.45083999633789062500
+	Approximate time needed to accomplish the task: 0.01299715042114257812
+	Approximate time needed to accomplish the task: 0.00598263740539550781
